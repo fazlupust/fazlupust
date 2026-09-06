@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Fazlur Rahman 👋
 
-I am a Senior Software Engineer with 8+ years of expertise in building scalable ERP systems and mobile applications. I specialize in full-stack development, server management, and creating maintainable, high-performance solutions.
+I am a Senior Software Engineer with 9+ years of expertise in building scalable ERP systems and mobile applications. I specialize in full-stack development, server management, and creating maintainable, high-performance solutions.
 
 ### 🔭 What I'm doing
 * **Current Role:** Senior Software Engineer at L2N Software Limited, leading the development and maintenance of custom ERP systems.
